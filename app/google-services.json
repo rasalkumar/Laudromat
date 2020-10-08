@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "860262021815",
+    "project_id": "firebase-laundromat"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860262021815:android:f63347b4b215dfe9",
+        "android_client_info": {
+          "package_name": "com.example.saksham.test101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860262021815-gumqilk1jtnfssivvs89bpj2p01phk8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saksham.test101",
+            "certificate_hash": "36CE15479B908E2B0E5D341D23B52F0D52D8B3AD"
+          }
+        },
+        {
+          "client_id": "860262021815-2nvmrc0r9n8hr80edh9d8527pi3r6r76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saksham.test101",
+            "certificate_hash": "064CEF9481388BBA434C7C4BE4FC663B3FD98A91"
+          }
+        },
+        {
+          "client_id": "860262021815-a9jap0bsqpig10b88udotnnf6fulg8j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGNgXaJRdBA3gZz7yU-BBC3Ud8fG88wEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860262021815:android:909e809cc46e8246",
+        "android_client_info": {
+          "package_name": "com.example.saksham.laundromat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860262021815-4n1e3t4g79rlmmia2h1d3esn5thng476.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saksham.laundromat",
+            "certificate_hash": "36CE15479B908E2B0E5D341D23B52F0D52D8B3AD"
+          }
+        },
+        {
+          "client_id": "860262021815-a9jap0bsqpig10b88udotnnf6fulg8j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGNgXaJRdBA3gZz7yU-BBC3Ud8fG88wEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

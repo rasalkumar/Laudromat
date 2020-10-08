@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Laundromat</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_logout">Logout</string>
+
+
+    <string name="hello_blank_fragment">Name : Praveen Kumar \n
+                                        Contact No : 9999999999 \n
+                                        Laundrament Head : CVR Bhavan
+                                                  </string>
+    <string name="country_prompt">Choose a plan</string>
+
+    <string-array name="plan_arrays">
+        <item>6 washes per Rs 200 per wash with Iron</item>
+        <item>8 washes per Rs 190 per wash with Iron</item>
+        <item>10 washes per Rs 180 per wash with Iron</item>
+        <item>12 washes per Rs 170 per wash with Iron</item>
+        <item>6 washes per Rs 150 per wash without Iron</item>
+        <item>8 washes per Rs 140 per wash without Iron</item>
+        <item>10 washes per Rs 130 per wash without Iron</item>
+        <item>12 washes per Rs 120 per wash without Iron</item>
+    </string-array>
+
+    <string name="error_mobile">Mobile is not valid</string>
+    <string name="error_code">Code is not valid</string>
+</resources>
